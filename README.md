@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #myPython
 The library of Python
 
@@ -6,3 +7,7 @@ The library of Python
 
 ####2、基于HTML的Python界面【meekgui】
 运行文件夹内的DEMO可以出现效果
+=======
+# myPython
+The library of Python
+>>>>>>> github/master
