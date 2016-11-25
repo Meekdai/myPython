@@ -7,3 +7,6 @@
 ####2、基于HTML的Python界面【meekgui】
 运行文件夹内的DEMO可以出现效果
 详情点击：http://blog.meekdai.com/html2python.html
+
+####3、文件重命名【Pyrename】
+查找文件名中的特定字符串替代。
